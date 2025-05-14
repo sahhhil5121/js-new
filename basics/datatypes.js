@@ -18,3 +18,12 @@
 //const anotherId = Symbol("123")
 
 //console.log(id === anotherId) => false
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+  
+// Stack(Primitive)    ,     Heap(Non Primitive)
+
+//  Primitive data type goes to Stack we get a copy of that value.
+// Non-Primitive data type goes to Heap we get refrence of that value.
+
